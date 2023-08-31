@@ -1,0 +1,70 @@
+body, html {
+    position:relative;
+}
+.fake-logo{
+    width:50%;
+}
+
+#custom {
+    width:400px;
+    border: 1px solid lightgray;
+    border-radius:15px;
+    height:600px;
+}
+
+.Sign-In{
+    text-align: left;
+    font-size: 5px;
+}
+
+.Password {
+    text-align: left;
+
+    
+}
+
+.username {
+    text-align: left; 
+}
+
+#Password1{
+    width: 100px;
+    margin:0px;
+
+}
+
+#password2{
+    text-align:right;
+    color:blue;
+    font-size: small;
+    margin: 0px;
+
+}
+
+.btn {
+    color: black; 
+    border: 1px solid black; 
+    width:370px;
+}
+
+.button {
+    text-align:center;
+    padding:10px;
+    
+}
+
+#button2{
+    border: 1px solid black; 
+    
+}
+
+
+#new {
+    text-align: center; 
+    color:lightgray;
+    font-size: small;
+    padding-top:3%;
+}
+.col-3{
+    justify-content: center; 
+}
